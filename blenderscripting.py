@@ -1,3 +1,7 @@
+'''
+Created in September, 2019
+@ author: Sidi Wu
+'''
 #generate buildings with holes, the final script
 import bpy
 import numpy as np
